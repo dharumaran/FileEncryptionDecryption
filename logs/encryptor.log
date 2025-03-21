@@ -1,0 +1,4 @@
+2025-03-21 10:51:36,269 - INFO - Encryption key generated and securely stored.
+2025-03-21 10:56:09,607 - INFO - Encryption key generated and securely stored.
+2025-03-21 10:56:23,664 - INFO - Encrypted D:\Dharini\os\example.txt -> D:\Dharini\os\example.txt.enc
+2025-03-21 10:57:08,821 - INFO - Decrypted D:\Dharini\os\example.txt.enc -> D:\Dharini\os\example.txt
